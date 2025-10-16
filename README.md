@@ -1,4 +1,4 @@
-<h3 align="center">Étudiant YnovCampus Toulouse Cybersécurité</h3>
+<h3 align="center">Étudiant YnovCampus Toulouse Infra</h3>
 
 ------------
 
